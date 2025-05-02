@@ -1,0 +1,9 @@
+{
+  "tiendaA.csv": {"producto": "producto", "marca": "marca", "precio": "precio", "descripcion": "descripcion"},
+  "tiendaB.csv": {"nombre": "producto", "brand": "marca", "precio": "precio", "detalle": "descripcion"},
+  "tiendaC.csv": {"item": "producto", "marca_producto": "marca", "precio_unitario": "precio", "desc": "descripcion"},
+  "tiendaD.csv": {"producto_nombre": "producto", "marca": "marca", "precio": "precio", "descripcion_producto": "descripcion"},
+  "tiendaE.csv": {"nombre_producto": "producto", "marca_comercial": "marca", "precio_final": "precio", "detalle_producto": "descripcion"},
+  "tiendaF.csv": {"producto": "producto", "marca": "marca", "precio": "precio", "descripcion": "descripcion"},
+  "tiendaG.csv": {"producto": "producto", "marca": "marca", "precio": "precio", "descripcion": "descripcion"}
+}

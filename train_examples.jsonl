@@ -1,0 +1,15 @@
+{"texts": ["Café molido 500g", "Paquete de café molido 500 gramos"], "label": 1.0}
+{"texts": ["Café molido 500g", "Café molido paquete 500 gramos"], "label": 1.0}
+{"texts": ["Café molido 500g", "Café molido, 500 gramos"], "label": 1.0}
+{"texts": ["Paquete de café molido 500 gramos", "Café molido 500g"], "label": 1.0}
+{"texts": ["Paquete de café molido 500 gramos", "Café molido, 500 gramos"], "label": 1.0}
+{"texts": ["Café molido 500g", "Café molido 500 g"], "label": 1.0}
+{"texts": ["Café molido 500g", "Café molido cinco cientos gramos"], "label": 1.0}
+{"texts": ["Leche descremada 1L", "Leche descremada 1 litro"], "label": 1.0}
+{"texts": ["Azúcar refinada 1kg", "Bolsa de azúcar refinada 1000g"], "label": 1.0}
+{"texts": ["Atún en agua 140g", "Lata de atún en agua 140 gramos"], "label": 1.0}
+{"texts": ["Aceite vegetal 900ml", "Botella de aceite vegetal 0.9L"], "label": 1.0}
+{"texts": ["Café molido 500g", "Azúcar refinada 1kg"], "label": 0.0}
+{"texts": ["Leche descremada 1L", "Atún en agua 140g"], "label": 0.0}
+{"texts": ["Aceite vegetal 900ml", "Café molido 500g"], "label": 0.0}
+{"texts": ["Bolsa de azúcar refinada 1000g", "Leche descremada 1 litro"], "label": 0.0}

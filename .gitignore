@@ -1,0 +1,50 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Debug/log files
+*.log
+debug_*.html
+
+# Data files - consider which ones should be kept
+data/raw/
+
+# Large model files - generally keep these out of git
+product_sbert_model/
+
+# IDE specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local configuration
+.env
+.local
+
+# Python profiling
+*.prof
+
+__pycache__/
+*.pyc
+.env
+*.csv
+/data/processed/

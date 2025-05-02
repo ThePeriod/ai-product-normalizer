@@ -1,0 +1,10 @@
+polars
+sentence-transformers
+numpy
+pytest
+datasets
+transformers[torch]
+torch
+requests
+beautifulsoup4
+playwright
